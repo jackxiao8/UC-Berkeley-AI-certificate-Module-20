@@ -1,4 +1,4 @@
-# UC-Berkeley-AI-certificate-Module20
+# UC-Berkeley-AI-certificate-Module-20
 capstone project initial report
 
 Initial report summary
